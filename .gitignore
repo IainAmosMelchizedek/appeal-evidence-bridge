@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+make-icons.js
+package-extension.js
+package.json
+icon.svg
