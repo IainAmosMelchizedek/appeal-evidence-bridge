@@ -1,4 +1,4 @@
-\# Appeal Evidence Bridge
+## Appeal Evidence Bridge
 
 
 
@@ -6,7 +6,7 @@ A browser extension built by a veteran to fix a navigation failure on VA.gov.
 
 
 
-\## The Problem
+## The Problem
 
 
 
@@ -34,7 +34,7 @@ The result: veterans miss deadlines, pay unnecessary postage, receive incorrect 
 
 
 
-\## The Fix
+## The Fix
 
 
 
@@ -54,7 +54,7 @@ This extension detects when a veteran is on their VA.gov appeal status page and 
 
 
 
-\## How to Install (Chrome and Edge)
+## How to Install (Chrome and Edge)
 
 
 
@@ -72,7 +72,7 @@ This extension detects when a veteran is on their VA.gov appeal status page and 
 
 
 
-\## What This Does Not Do
+## What This Does Not Do
 
 
 
@@ -90,7 +90,7 @@ It simply puts a link where it should have always been.
 
 
 
-\## The Larger Issue
+## The Larger Issue
 
 
 
@@ -106,7 +106,7 @@ This extension is proof that the fix is simple. It is being submitted to the VA 
 
 
 
-\## Built By
+## Built By
 
 
 
